@@ -1,0 +1,14 @@
+@import "../../utils/variables.scss";
+@import "../../utils/mixins.scss";
+
+.stats {
+  background-color: $color-primary;
+  text-align: center;
+  padding: $section-padding;
+  h2 {
+    color: $color-secondary;
+  }
+  h3 {
+    color: $color-tertiary;
+  }
+}

@@ -1,0 +1,27 @@
+@mixin font-regular {
+  font: {
+    size: 18px;
+    weight: 400;
+  }
+}
+
+@mixin font-regular-p {
+  font: {
+    weight: 400;
+    size: 25px;
+  }
+}
+
+@mixin font-medium {
+  font: {
+    size: 20px;
+    weight: 500;
+  }
+}
+
+@mixin font-semibold {
+  font: {
+    size: 19px;
+    weight: 600;
+  }
+}

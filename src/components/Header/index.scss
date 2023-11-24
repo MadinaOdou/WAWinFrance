@@ -1,0 +1,32 @@
+@import "../../utils/variables.scss";
+@import "../../utils/mixins.scss";
+
+.header {
+  height: 63px;
+  background-color: $color-primary;
+  padding: 59px;
+  justify-content: space-between;
+  align-items: center;
+  img {
+    width: 131px;
+  }
+  nav {
+    @include font-regular;
+    display: flex;
+    gap: 15px;
+  }
+  &-icons {
+    display: flex;
+    gap: 15px;
+    text-align: center;
+    a {
+      border-radius: 50%;
+      color: $color-primary;
+      background: $color-secondary;
+      font-size: 45px;
+      width: 62px;
+      height: 62px;
+      padding-top: 6px;
+    }
+  }
+}
