@@ -1,0 +1,43 @@
+[
+  {
+    "icon": "src/assets/heart.png",
+    "imgAlt": "Heart",
+    "number": "8 600+",
+    "description": "участниц в соцсетях"
+  },
+
+  {
+    "icon": "src/assets/bookmark.png",
+    "imgAlt": "Bookmark",
+    "number": "17",
+    "description": "нетворкингов"
+  },
+
+  {
+    "icon": "src/assets/diamond.png",
+    "imgAlt": "Diamond",
+    "number": "17",
+    "description": "вебинаров и эфиров"
+  },
+
+  {
+    "icon": "src/assets/calendar-arrow-up.png",
+    "imgAlt": "Calendar",
+    "number": "1",
+    "description": "большой семинар"
+  },
+
+  {
+    "icon": "src/assets/memo-pad.png",
+    "imgAlt": "Memo pad",
+    "number": "20+",
+    "description": "полезных постов в месяц"
+  },
+
+  {
+    "icon": "src/assets/star-comment-alt.png",
+    "imgAlt": "Star comment",
+    "number": "10",
+    "description": "менторов всегда на связи"
+  }
+]

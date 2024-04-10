@@ -4,11 +4,20 @@
 .stats {
   background-color: $color-primary;
   text-align: center;
-  padding: $section-padding;
+  width: 100%;
+  padding: 50px 15px 50px;
   h2 {
+    font-size: 40px;
     color: $color-secondary;
   }
   h3 {
     color: $color-tertiary;
+    font-size: 18px;
+  }
+  &-container {
+    width: 95%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 50px;
   }
 }

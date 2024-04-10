@@ -3,34 +3,31 @@
 
 .banner {
   background: $color-primary;
-  text-align: right;
+  text-align: left;
   width: 100%;
-  padding-left: 59px;
+  padding: 120px 15px 50px;
   &-text {
     text-align: left;
-    width: 60%;
     h1 {
-      margin: 0px;
-      padding-top: 20px;
-      font-weight: 700;
-      font-size: 92px;
       text-transform: uppercase;
       color: $color-secondary;
-      line-height: 5.5rem;
+      font-weight: 700;
+      font-size: 35px;
+      width: 90%;
     }
     p {
-      font-size: 25px;
+      font-size: 18px;
       color: $color-secondary;
-      line-height: 3rem;
       margin-top: 5px;
     }
     &--rectangle {
       gap: 30px;
+      align-items: center;
       div {
         background-color: $color-secondary;
-        width: 282px;
-        height: 123px;
-        padding: 10px 0 0 25px;
+        width: 95%;
+        height: 110px;
+        text-align: justify;
         &:first-of-type {
           border-radius: 30px 30px 0px 30px;
         }
@@ -38,15 +35,58 @@
           border-radius: 0px 30px 30px 30px;
         }
         p {
+          padding: 14px 0 0 20px;
           color: $color-tertiary;
           @include font-semibold;
           line-height: 1.7rem;
+          width: 90%;
         }
       }
     }
   }
+  // padding-left: 59px;
+  // &-text {
+  //   text-align: left;
+  //   width: 60%;
+  //   h1 {
+  //     margin: 0px;
+  //     padding-top: 20px;
+  //     font-weight: 700;
+  //     font-size: 92px;
+  //     text-transform: uppercase;
+  //     color: $color-secondary;
+  //     line-height: 5.5rem;
+  //   }
+  //   p {
+  //     font-size: 25px;
+  //     color: $color-secondary;
+  //     line-height: 3rem;
+  //     margin-top: 5px;
+  //   }
+  //   &--rectangle {
+  //     gap: 30px;
+  //     div {
+  //       background-color: $color-secondary;
+  //       width: 282px;
+  //       height: 123px;
+  //       padding: 10px 0 0 25px;
+  //       &:first-of-type {
+  //         border-radius: 30px 30px 0px 30px;
+  //       }
+  //       &:last-of-type {
+  //         border-radius: 0px 30px 30px 30px;
+  //       }
+  //       p {
+  //         color: $color-tertiary;
+  //         @include font-semibold;
+  //         line-height: 1.7rem;
+  //       }
+  //     }
+  //   }
+  // }
   &-image {
-    width: 40%;
-    margin-top: -30px;
+    display: none;
+    // width: 40%;
+    // margin-top: -30px;
   }
 }

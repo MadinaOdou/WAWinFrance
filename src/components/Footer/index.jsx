@@ -2,8 +2,8 @@ import "./index.scss";
 
 function Footer() {
   return (
-    <footer className="footer flex-row">
-      <p>© 2022 Women at work in France. All rights reserved.</p>
+    <footer className="footer d-flex position-absolute">
+      <p>© 2024 Women at Work in France. All rights reserved.</p>
     </footer>
   );
 }

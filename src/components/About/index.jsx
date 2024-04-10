@@ -6,7 +6,7 @@ function About() {
     <section className="about">
       <h2>Про нас</h2>
       <h3>Будем очень рады новым участницам ассоциации!</h3>
-      <div className="about-content flex-row">
+      <div className="about-content flex-column">
         <div className="about-content--image">
           <img src={group} alt="Group photo of community" />
         </div>
@@ -25,7 +25,7 @@ function About() {
         </div>
       </div>
       <h4>Мы помогаем друг другу в любых вопросах, касающихся работы</h4>
-      <div className="about-items flex-row">
+      <div className="about-items flex-column">
         <div className="about-items--point flex-column">
           <span></span>
           <p>Составления CV</p>
