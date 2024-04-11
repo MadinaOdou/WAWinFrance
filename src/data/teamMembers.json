@@ -1,0 +1,65 @@
+[
+  {
+    "imgSrc": "src/assets/nastya.png",
+    "imgAlt": "Anastasia Panina",
+    "name": "Анастасия Панина",
+    "position": "Президент ассоциации",
+    "text": "Мне приносит неимоверное удовольствие находить талантливейших женщин-спикеров, устраивать оффлайн и онлайн встречи, и вдохновлять участниц и саму себя на новые свершения!"
+  },
+
+  {
+    "imgSrc": "src/assets/tanya.png",
+    "imgAlt": "Tetiana Salivon",
+    "name": "Татьяна Саливон",
+    "position": "Вице-президент",
+    "text": "Здесь можно встретить замечательных женщин, которые прошли потрясающий и интересный жизненный путь. Каждая женщина, желающая строить карьеру или бизнес во Франции/Европе, должна быть в Women at Work!"
+  },
+
+  {
+    "imgSrc": "src/assets/elena.jpeg",
+    "imgAlt": "Elena Havard",
+    "name": "Елена Авар",
+    "position": "Вице-президент",
+    "text": "Women at Work — это мой источник вдохновения, укрепления веры в себя и поиск путей вверх! С момента создания сообщества я закончила бизнес-школу, сменила вид деятельности и должность на более интересные."
+  },
+
+  {
+    "imgSrc": "src/assets/katya.png",
+    "imgAlt": "Ekaterina Tikhonova",
+    "name": "Екатерина Тихонова",
+    "position": "Почетный член ассоциации",
+    "text": "Как и многие другие успешные проекты, эта группа родилась спонтанно — я её создала в Facebook в 2019 году. Сейчас Women at Work in France является официальной ассоциацией и помогает женщинам профессионально развиваться во Франции."
+  },
+
+  {
+    "imgSrc": "src/assets/nadya.png",
+    "imgAlt": "Nadezhda Butakova",
+    "name": "Надежда Бутакова",
+    "position": "Казначей",
+    "text": "Меня вдохновляет видеть рост сообщества, старые и новые лица, и думать, что каждый день одна из участниц, возможно, находит для себя в группе совет или отклик, который может позитивно повлиять на её работу и жизнь в целом."
+  },
+
+  {
+    "imgSrc": "src/assets/alina.png",
+    "imgAlt": "Alina Kanstantsinava",
+    "name": "Алина Канстанцинава",
+    "position": "Казначей",
+    "text": "Благодаря нашему сообществу я вернула активную и успешную Алину обратно в строй, и надеюсь, многие другие девушки тоже зажигают пламя жизни в своих сердцах вновь. Вместе мы сила! И помните: If you can dream it — you can do it!"
+  },
+
+  {
+    "imgSrc": "src/assets/anna.png",
+    "imgAlt": "Anna Burchuladze",
+    "name": "Анна Бурчуладзе",
+    "position": "Секретарь",
+    "text": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée."
+  },
+
+  {
+    "imgSrc": "src/assets/valeria.png",
+    "imgAlt": "Valeria Pavlova",
+    "name": "Валерия Павлова",
+    "position": "Секретарь",
+    "text": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée."
+  }
+]

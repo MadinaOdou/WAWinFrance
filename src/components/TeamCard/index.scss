@@ -1,0 +1,26 @@
+@import "../../utils/variables.scss";
+@import "../../utils/mixins.scss";
+
+.team-card {
+  text-align: center;
+  font-weight: 400;
+  img {
+    border-radius: 30px;
+  }
+  h4 {
+    padding: 10px 0 0;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-size: 25px;
+  }
+  span {
+    font-size: 18px;
+    font-weight: 700;
+    color: $color-primary;
+    margin-bottom: 10px;
+  }
+  p {
+    text-align: justify;
+    font-size: 16px;
+  }
+}

@@ -1,6 +1,10 @@
 import About from "../../components/About";
 import Banner from "../../components/Banner";
+import Benefits from "../../components/Benefits";
+import Events from "../../components/Events";
 import Stats from "../../components/Stats";
+import Subscribe from "../../components/Subscribe";
+import Team from "../../components/Team";
 import "./index.scss";
 
 function Home() {
@@ -9,6 +13,10 @@ function Home() {
       <Banner />
       <About />
       <Stats />
+      <Benefits />
+      <Team />
+      <Events />
+      <Subscribe />
     </main>
   );
 }

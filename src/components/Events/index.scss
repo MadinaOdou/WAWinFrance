@@ -1,23 +1,20 @@
 @import "../../utils/variables.scss";
 @import "../../utils/mixins.scss";
 
-.stats {
-  background-color: $color-primary;
+.events {
   text-align: center;
   width: 100%;
   padding: 50px 15px 50px;
+  color: white;
+  background-color: $color-complementary-two;
   h2 {
     font-size: 40px;
-    color: $color-secondary;
   }
   h3 {
-    color: $color-tertiary;
     font-size: 18px;
+    padding: 0 60px;
   }
   &-container {
-    width: 100%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 30px;
+    gap: 60px;
   }
 }
