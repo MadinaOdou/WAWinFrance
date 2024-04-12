@@ -12,7 +12,7 @@ function Subscribe() {
           method="Post"
         >
           <input type="text" name="text" placeholder="Email" />
-          <button type="button" class="btn">
+          <button type="button" className="btn">
             Подписаться
           </button>
         </form>
