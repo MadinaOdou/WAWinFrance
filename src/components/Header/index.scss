@@ -44,15 +44,10 @@
     display: flex;
     gap: 12px;
     text-align: center;
-    padding-right: 20px;
+    padding: 9px 20px 0 0;
     a {
-      border-radius: 50%;
-      color: $color-primary;
-      background: $color-secondary;
-      font-size: 23px;
-      width: 30px;
-      height: 30px;
-      padding: 1px 0 0 1px;
+      color: white;
+      font-size: 27px;
     }
   }
 }

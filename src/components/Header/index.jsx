@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faInstagram,
-  faFacebookF,
+  faSquareInstagram,
+  faSquareFacebook,
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
 import logo from "/assets/waw-logo.png";
@@ -41,7 +41,7 @@ function Header() {
               target="_blank"
               href="https://instagram.com/womenatwork_global"
             >
-              <FontAwesomeIcon icon={faInstagram} />
+              <FontAwesomeIcon icon={faSquareInstagram} />
             </a>
             <a
               title="Добавиться в нашу группу в Facebook"
@@ -49,7 +49,7 @@ function Header() {
               target="_blank"
               href="https://facebook.com/groups/womenworkfrance/"
             >
-              <FontAwesomeIcon icon={faFacebookF} />
+              <FontAwesomeIcon icon={faSquareFacebook} />
             </a>
             <a
               title="Подписаться на нашу страницу в LinkedIn"
