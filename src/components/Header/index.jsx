@@ -18,17 +18,17 @@ function Header() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="">
+                <a className="nav-link" aria-current="page" href="#about">
                   Про нас
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="">
+                <a className="nav-link" href="#benefits">
                   Участие
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="">
+                <a className="nav-link" href="#events">
                   Мероприятия
                 </a>
               </li>

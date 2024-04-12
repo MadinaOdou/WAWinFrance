@@ -5,7 +5,7 @@ import "./index.scss";
 
 function Benefits() {
   return (
-    <section className="benefits">
+    <section className="benefits" id="benefits">
       <h2>Привилегии для участниц</h2>
       <h3>
         Давайте развиваться вместе! Вступайте в ассоциацию,принимайте участие в

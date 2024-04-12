@@ -1,6 +1,7 @@
 import About from "../../components/About";
 import Banner from "../../components/Banner";
 import Benefits from "../../components/Benefits";
+import Contact from "../../components/Contact";
 import Events from "../../components/Events";
 import Stats from "../../components/Stats";
 import Subscribe from "../../components/Subscribe";
@@ -17,6 +18,7 @@ function Home() {
       <Team />
       <Events />
       <Subscribe />
+      <Contact />
     </main>
   );
 }

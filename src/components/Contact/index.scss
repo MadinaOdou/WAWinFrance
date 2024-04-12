@@ -1,0 +1,37 @@
+@import "../../utils/variables.scss";
+@import "../../utils/mixins.scss";
+
+.contact {
+  text-align: left;
+  font-weight: 300;
+  font-size: 30px;
+  width: 100%;
+  padding: 50px 15px 50px;
+  color: $color-tertiary;
+  background-color: #c1c6ae;
+  h2 {
+    font-size: 40px;
+    text-transform: none;
+    font-weight: 300;
+  }
+  a {
+    color: $color-tertiary;
+    &:hover {
+      color: white;
+    }
+  }
+  &-container {
+    padding-top: 30px;
+    gap: 30px;
+    &-mail {
+      gap: 10px;
+      a {
+        font-size: 20px;
+      }
+    }
+    &-icons {
+      align-items: center;
+      gap: 15px;
+    }
+  }
+}

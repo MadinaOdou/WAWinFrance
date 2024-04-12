@@ -3,7 +3,7 @@ import "./index.scss";
 
 function About() {
   return (
-    <section className="about">
+    <section className="about" id="about">
       <h2>Про нас</h2>
       <h3>Будем очень рады новым участницам ассоциации!</h3>
       <div className="about-content flex-column">

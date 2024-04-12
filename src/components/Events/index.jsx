@@ -4,7 +4,7 @@ import "./index.scss";
 
 function Events() {
   return (
-    <section className="events">
+    <section className="events" id="events">
       <h2>Мероприятия</h2>
       <h3>Ближайшиe мероприятия Woman at work in France</h3>
       <div className="events-container flex-column">
