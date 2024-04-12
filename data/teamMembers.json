@@ -1,6 +1,6 @@
 [
   {
-    "imgSrc": "src/assets/nastya.png",
+    "imgSrc": "/assets/nastya.webp",
     "imgAlt": "Anastasia Panina",
     "name": "Анастасия Панина",
     "position": "Президент ассоциации",
@@ -8,7 +8,7 @@
   },
 
   {
-    "imgSrc": "src/assets/tanya.png",
+    "imgSrc": "/assets/tanya.webp",
     "imgAlt": "Tetiana Salivon",
     "name": "Татьяна Саливон",
     "position": "Вице-президент",
@@ -16,7 +16,7 @@
   },
 
   {
-    "imgSrc": "src/assets/elena.jpeg",
+    "imgSrc": "/assets/elena.webp",
     "imgAlt": "Elena Havard",
     "name": "Елена Авар",
     "position": "Вице-президент",
@@ -24,7 +24,7 @@
   },
 
   {
-    "imgSrc": "src/assets/katya.png",
+    "imgSrc": "/assets/katya.webp",
     "imgAlt": "Ekaterina Tikhonova",
     "name": "Екатерина Тихонова",
     "position": "Почетный член ассоциации",
@@ -32,7 +32,7 @@
   },
 
   {
-    "imgSrc": "src/assets/nadya.png",
+    "imgSrc": "/assets/nadya.webp",
     "imgAlt": "Nadezhda Butakova",
     "name": "Надежда Бутакова",
     "position": "Казначей",
@@ -40,7 +40,7 @@
   },
 
   {
-    "imgSrc": "src/assets/alina.png",
+    "imgSrc": "/assets/alina.webp",
     "imgAlt": "Alina Kanstantsinava",
     "name": "Алина Канстанцинава",
     "position": "Казначей",
@@ -48,7 +48,7 @@
   },
 
   {
-    "imgSrc": "src/assets/anna.png",
+    "imgSrc": "/assets/anna.webp",
     "imgAlt": "Anna Burchuladze",
     "name": "Анна Бурчуладзе",
     "position": "Секретарь",
@@ -56,7 +56,7 @@
   },
 
   {
-    "imgSrc": "src/assets/valeria.png",
+    "imgSrc": "/assets/valeria.webp",
     "imgAlt": "Valeria Pavlova",
     "name": "Валерия Павлова",
     "position": "Секретарь",

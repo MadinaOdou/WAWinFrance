@@ -38,13 +38,13 @@
     }
   }
   &-items {
-    padding-top: 20px;
-    align-items: flex-start;
-    gap: 15px;
+    justify-content: center;
     &--point {
+      padding-top: 20px;
+      gap: 10px;
       p {
-        padding-top: 15px;
-        @include font-regular-p;
+        font-size: 20px;
+        padding-top: 11px;
       }
       span {
         width: 50px;

@@ -1,6 +1,6 @@
 [
   {
-    "imgSrc": "src/assets/event.jpeg",
+    "imgSrc": "/assets/event.jpeg",
     "imgAlt": "Le lorem ipsum est",
     "title": "Большой семинар №4",
     "date": "4 марта с 10:30 до 18:00",
@@ -9,7 +9,7 @@
   },
 
   {
-    "imgSrc": "src/assets/event.jpeg",
+    "imgSrc": "/assets/event.jpeg",
     "imgAlt": "Le lorem ipsum est",
     "title": "Большой семинар №4",
     "date": "4 марта с 10:30 до 18:00",
@@ -18,7 +18,7 @@
   },
 
   {
-    "imgSrc": "src/assets/event.jpeg",
+    "imgSrc": "/assets/event.jpeg",
     "imgAlt": "Le lorem ipsum est",
     "title": "Большой семинар №4",
     "date": "4 марта с 10:30 до 18:00",
@@ -27,7 +27,7 @@
   },
 
   {
-    "imgSrc": "src/assets/event.jpeg",
+    "imgSrc": "/assets/event.jpeg",
     "imgAlt": "Le lorem ipsum est",
     "title": "Большой семинар №4",
     "date": "4 марта с 10:30 до 18:00",

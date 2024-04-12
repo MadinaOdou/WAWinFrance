@@ -1,6 +1,6 @@
 import BenefitCard from "../BenefitCard";
-import benefits from "../../../src/data/benefits.json";
-import palette from "../../assets/palette.png";
+import benefits from "/data/benefits.json";
+import palette from "/assets/palette.png";
 import "./index.scss";
 
 function Benefits() {

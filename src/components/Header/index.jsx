@@ -4,7 +4,7 @@ import {
   faFacebookF,
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
-import logo from "../../assets/waw-logo.png";
+import logo from "/assets/waw-logo.png";
 import "./index.scss";
 
 function Header() {

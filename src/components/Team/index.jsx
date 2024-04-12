@@ -1,5 +1,5 @@
 import TeamCard from "../TeamCard";
-import teamMembers from "../../../src/data/teamMembers.json";
+import teamMembers from "/data/teamMembers.json";
 import "./index.scss";
 
 function Team() {

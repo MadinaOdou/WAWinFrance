@@ -1,5 +1,5 @@
 import StatsItem from "../StatsItem";
-import statsData from "../../../src/data/statsData.json";
+import statsData from "/data/statsData.json";
 import "./index.scss";
 
 function Stats() {

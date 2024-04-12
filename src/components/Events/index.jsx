@@ -1,5 +1,5 @@
 import EventCard from "../EventCard";
-import events from "../../../src/data/events.json";
+import events from "/data/events.json";
 import "./index.scss";
 
 function Events() {

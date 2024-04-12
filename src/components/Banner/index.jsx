@@ -1,5 +1,5 @@
-import illustration from "../../assets/illustration.png";
-import smallbanner from "../../assets/small-illustration.png";
+import illustration from "/assets/illustration.png";
+import smallbanner from "/assets/small-illustration.png";
 import "./index.scss";
 
 function Banner() {
@@ -8,8 +8,8 @@ function Banner() {
       <div className="banner-text flex-column">
         <h1>Women at work in France</h1>
         <p>
-          Сообщество женщин во Франции, которые <br></br>заинтересованы в
-          профессиональном и <br></br>личностном развитии
+          Сообщество женщин во Франции, которые заинтересованы в
+          профессиональном и личностном развитии
         </p>
       </div>
       <img

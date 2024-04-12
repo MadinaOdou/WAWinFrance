@@ -1,4 +1,4 @@
-import group from "../../assets/collective.webp";
+import group from "/assets/collective.webp";
 import "./index.scss";
 
 function About() {
@@ -26,19 +26,19 @@ function About() {
       </div>
       <h4>Мы помогаем друг другу в любых вопросах, касающихся работы</h4>
       <div className="about-items flex-column">
-        <div className="about-items--point flex-column">
+        <div className="about-items--point flex-row">
           <span></span>
           <p>Составления CV</p>
         </div>
-        <div className="about-items--point flex-column">
+        <div className="about-items--point flex-row">
           <span></span>
           <p>Прохождения собеседований</p>
         </div>
-        <div className="about-items--point flex-column">
+        <div className="about-items--point flex-row">
           <span></span>
           <p>Спорных рабочих ситуаций</p>
         </div>
-        <div className="about-items--point flex-column">
+        <div className="about-items--point flex-row">
           <span></span>
           <p>Общения на работе</p>
         </div>
